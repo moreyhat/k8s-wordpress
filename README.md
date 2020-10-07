@@ -1,4 +1,4 @@
-# k8s-wordpress
+# Wordpress on kubernetes
 Wordpressをkubernetes上で展開するサンプルです。
 [Docker Desktop for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac)のkubernetes環境でのみ動作確認をしています。
 
